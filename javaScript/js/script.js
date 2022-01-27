@@ -34,7 +34,7 @@ var name = "ivan";
 }
 console.log(max);
 */
-
+//
 //alert('fuck')
 //const result = confirm("are you her");
 //console.log(result)
