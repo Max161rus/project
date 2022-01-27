@@ -37,6 +37,7 @@ console.log(max);
 
 //alert('fuck')
 //const result = confirm("are you her");
+//console.log(result)
 
 //(result) ? console.log("долбоебы_тру"):console.log("пидарасты_фалс")
 //const answer = +prompt("вам есть 18?", "18") ;
